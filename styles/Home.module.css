@@ -1,0 +1,36 @@
+.box {
+    margin-top: 2rem;
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    height: 3rem;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nextButton {
+    padding: 1rem;
+}
+
+.PrevButton {
+    padding: 1rem;
+}
+
+.card {
+    margin-top: 5rem;
+}
+
+.cardInfo{
+    display: flex;
+    justify-content: center;
+}
+
+.backButton {
+    text-transform: none;
+}
